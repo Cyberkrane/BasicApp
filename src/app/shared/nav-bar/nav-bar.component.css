@@ -1,0 +1,11 @@
+.casita{
+    color: rgb(171, 205, 235);
+    text-shadow: rgb(133, 184, 251) 0 0 5px;
+    font-size: 2rem;
+    margin-left: 20px;
+}
+.casita:hover{
+    text-shadow: yellow -10px -30px 10px;
+    color: yellow ;
+
+}
